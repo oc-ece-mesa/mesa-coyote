@@ -593,6 +593,17 @@
 			(uuid "cac01ff3-4bd5-4221-930b-4b937a094eb9")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/SLW-864574-5A-RA-N-D.step"
+			(offset
+				(xyz -0.4 8.6 1.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "my-kicad-parts:SW_TS02-66-50-BK-160-SCR-D"
 		(layer "F.Cu")
@@ -880,6 +891,17 @@
 			(uuid "2f0359b6-76c1-4f03-a028-1f4d1a9f0b85")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/TS02-66-50-BK-260-SCR-D.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad"
 		(layer "F.Cu")
@@ -1482,6 +1504,17 @@
 			(uuid "00f29e33-ce7a-411e-82da-3f6192b2cba5")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/TS02-66-50-BK-160-SCR-D.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "my-kicad-parts:TSJ31"
 		(layer "F.Cu")
@@ -1912,6 +1945,17 @@
 			(uuid "eb261ed7-91f4-4a02-81b2-9d17e8ec74d8")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/MC130VW.step"
+			(offset
+				(xyz 3.5 9 2.7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
 		(layer "F.Cu")
@@ -2780,13 +2824,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 -3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3076,6 +3120,17 @@
 			(uuid "e13e7953-daec-4d3e-a3dd-a8f76c2c1ab0")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/TS02-66-50-BK-260-SCR-D.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "my-kicad-parts:BAT_BAT-HLD-001-THM"
 		(layer "B.Cu")
@@ -3499,6 +3554,17 @@
 			(uuid "9a224ff1-04d2-49de-8af3-ae7fb3cb8a6e")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/BAT-HLD-001-THM.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "my-kicad-parts:BAT_BAT-HLD-001-THM"
 		(layer "B.Cu")
@@ -3922,6 +3988,17 @@
 			(uuid "4b2994a3-2110-432a-be7c-4ad9d4539018")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/BAT-HLD-001-THM.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "my-kicad-parts:MESA_Basalt"
 		(layer "B.Cu")
@@ -4249,6 +4326,17 @@
 			(uuid "0c09cc8b-15f7-440e-8e18-f3a5655abda4")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/MESA_Basalt.step"
+			(offset
+				(xyz 0 0 2.75)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(gr_rect
 		(start 100 78)
