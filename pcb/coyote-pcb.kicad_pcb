@@ -1757,6 +1757,17 @@
 			(uuid "48fcb893-14de-4178-951f-812b7a6dc677")
 		)
 		(embedded_fonts no)
+		(model "/home/icosahunter/my-kicad-parts/TSJ31.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "my-kicad-parts:B077"
 		(layer "F.Cu")
