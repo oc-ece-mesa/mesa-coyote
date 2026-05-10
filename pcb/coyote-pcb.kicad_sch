@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "51ccad39-1580-4c3d-a70d-f308be920fe3")
 	(paper "A4")
+	(title_block
+		(title "Coyote")
+		(date "2026-05-10")
+		(rev "1")
+		(company "MESA")
+	)
 	(lib_symbols
 		(symbol "Device:LED"
 			(pin_numbers
