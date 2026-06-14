@@ -1,8 +1,8 @@
 # MESA Coyote
 
 <div>
-    <img src="assets/coyote-angled-view.png" width="200">
-    <img src="assets/coyote-top-view.png" width="200">
+    <img src="assets/coyote-angled-view.png" width="300">
+    <img src="assets/coyote-top-view.png" width="300">
 </div>
 
 Coyote is a handheld game system that uses the MESA Basalt devboard.
